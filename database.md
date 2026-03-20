@@ -21,3 +21,7 @@ Database URL: jdbc:mysql://124.223.33.28:3306/carddata cardData zxN8TNNP4Ghf4Ksb
 2026/03/16 | Database structure verification and optimization | Completed | Verified unique constraints, foreign keys, and field lengths to ensure data integrity
 
 2026/03/17 | finish all data input
+
+2026/03/18 | modify data and test the server
+
+2026/03/20 Insert English listening materials in batches. Sort and import listening materials corresponding to Test1~Test4; verify data integrity and association relations
