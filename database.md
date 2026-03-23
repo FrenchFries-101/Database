@@ -27,3 +27,5 @@ Database URL: jdbc:mysql://124.223.33.28:3306/carddata cardData zxN8TNNP4Ghf4Ksb
 2026/03/20 Insert English listening materials in batches. Sort and import listening materials corresponding to Test1~Test4; verify data integrity and association relations
 
 2026/03/21 Organize new Cambridge materials data. Standardize audio, images, answers and paths; complete null fields for Test1~Test4
+
+2026/03/23 Insert new Cambridge materials data. Execute batch SQL import; verify resource validity and data constraints
