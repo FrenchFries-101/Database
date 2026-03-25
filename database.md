@@ -31,3 +31,5 @@ Database URL: jdbc:mysql://124.223.33.28:3306/carddata cardData zxN8TNNP4Ghf4Ksb
 2026/03/23 Insert new Cambridge materials data. Execute batch SQL import; verify resource validity and data constraints
 
 2026/03/24 Full database data verification. Check test data, words, resources and constraints; fix abnormal data
+
+2026/03/25 Backup local database and resources. Export full SQL dump and package static resources (audio/images)
