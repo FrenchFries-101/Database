@@ -33,3 +33,5 @@ Database URL: jdbc:mysql://124.223.33.28:3306/carddata cardData zxN8TNNP4Ghf4Ksb
 2026/03/24 Full database data verification. Check test data, words, resources and constraints; fix abnormal data
 
 2026/03/25 Backup local database and resources. Export full SQL dump and package static resources (audio/images)
+
+2026/03/26 Upload static resources to server. Upload audio and image files to server port 7777 directory; test resource access
